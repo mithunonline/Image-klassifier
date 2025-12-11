@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NeuroCode - Python Vision Model Builder",
+  "description": "An interactive tool to generate custom Python image classification code and test concepts using Gemini Vision.",
+  "requestFramePermissions": []
+}
